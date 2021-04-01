@@ -1,6 +1,10 @@
 #imports
 import time
 import os
+import cmd
+import textwrap
+import sys
+import random
 
 #inventory
 inventory=[]
